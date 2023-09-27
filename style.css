@@ -1,0 +1,36 @@
+
+body{
+    background-color: rgb(83, 153, 219);
+    text-align: center;
+}
+
+#nubes{
+
+    width: 55%;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+#facebook{
+
+    color: rgb(206, 34, 212);
+
+}
+
+h2{
+
+    color: rgb(242, 237, 245);
+
+}
+strong{
+
+    color: rgb(242, 237, 245);
+}
+address{
+
+    color: rgb(238, 184, 8);
+}
+
